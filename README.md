@@ -1,2 +1,2 @@
 # CP
-Competitive Programming Archive (C++)
+Competitive Programming Archive
